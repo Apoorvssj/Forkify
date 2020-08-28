@@ -2,7 +2,7 @@
 A real world javascript web app ,using cutting age es6 features,webpack,babel.I made this app while learning advanced javascript from Jonas Schmedtmann.This app uses food2fork api to fetch recipe data.
 
 ## Description
-You can see a no. of recipes for pizza ,pasta,curries,etc. You can also like them by clicking on the heart button and all your liked recipes can be accessed from the heart button itself.
+You can see a no. of recipes for pizza ,pasta,curries,tofu,etc. You can also like them by clicking on the heart button and all your liked recipes can be accessed from the heart button itself.Also you can see all directions to make the dish by clicking on directions button.
 You can also change the servings the recipe will be shown accordingly.All the user data will be stored locally on your browser using local storage by JSON.
 
 ## Usage
